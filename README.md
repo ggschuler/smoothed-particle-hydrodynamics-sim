@@ -1,1 +1,1 @@
-# SPH-Liquid-Simulation-3D
+# Smoothed Particle Hydrodynamics Simulation
